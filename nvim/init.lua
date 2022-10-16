@@ -9,12 +9,8 @@ require "settings/styles"
 ----------------------------------
 require "plugins"
 require "plugins/configs/cmp"
-require "plugins/configs/nvim-treesitter"
 require "plugins/configs/telescope"
 -------------------------------------------
 -- mason --> mason-lspconfig --> lspconfig 
 -- must be setup in this order
 -------------------------------------------
-require "plugins/configs/mason"
-require "plugins/configs/mason-lspconfig"
-require "plugins/configs/lspconfig"
