@@ -10,3 +10,6 @@
 [submodule "zsh/themes/powerlevel10k"]
 	path = zsh/themes/powerlevel10k
 	url = https://github.com/romkatv/powerlevel10k
+[submodule "NeoVim_Essentials"]
+	path = NeoVim_Essentials
+	url = https://github.com/Blovio/NeoVim_Essentials
